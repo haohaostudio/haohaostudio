@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1555246520,
+	"version": 1555247948,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,10 @@
 		"images/tnt-sheet0.png",
 		"images/ropes-sheet0.png",
 		"images/smaller-sheet0.png",
+		"media/1801.m4a",
+		"media/1801.ogg",
+		"media/7990.m4a",
+		"media/7990.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
